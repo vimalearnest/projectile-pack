@@ -5,6 +5,7 @@
 
 ;; Load bindings config
 (live-load-config-file "grizzl.el")
+(live-load-config-file "flx.el")
 (live-load-config-file "helm.el")
 (live-load-config-file "projectile.el")
 (live-load-config-file "bindings.el")

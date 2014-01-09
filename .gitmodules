@@ -7,3 +7,6 @@
 [submodule "vendor/submodules/helm"]
 	path = vendor/submodules/helm
 	url = https://github.com/emacs-helm/helm.git
+[submodule "vendor/submodules/flx"]
+	path = vendor/submodules/flx
+	url = https://github.com/lewang/flx.git
