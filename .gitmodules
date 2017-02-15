@@ -10,3 +10,6 @@
 [submodule "vendor/submodules/flx"]
 	path = vendor/submodules/flx
 	url = https://github.com/lewang/flx.git
+[submodule "vendor/submodules/vendor/helm-projectile"]
+	path = vendor/submodules/vendor/helm-projectile
+	url = git@github.com:bbatsov/helm-projectile.git
