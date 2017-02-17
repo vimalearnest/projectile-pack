@@ -19,3 +19,6 @@
 [submodule "vendor/submodules/emacs-helm-ag"]
 	path = vendor/submodules/emacs-helm-ag
 	url = git@github.com:syohex/emacs-helm-ag.git
+[submodule "vendor/submodules/ag"]
+	path = vendor/submodules/ag
+	url = git@github.com:Wilfred/ag.el.git
