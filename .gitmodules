@@ -22,3 +22,6 @@
 [submodule "vendor/submodules/ag"]
 	path = vendor/submodules/ag
 	url = git@github.com:Wilfred/ag.el.git
+[submodule "vendor/submodules/xcscope"]
+	path = vendor/submodules/xcscope
+	url = git@github.com:dkogan/xcscope.el.git

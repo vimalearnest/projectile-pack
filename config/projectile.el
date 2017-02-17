@@ -2,10 +2,13 @@
 (live-add-pack-lib "emacs-helm-ag")
 (live-add-pack-lib "projectile")
 (live-add-pack-lib "ag")
+(live-add-pack-lib "xcscope")
+
 (require 'projectile)
 (require 'helm-projectile)
 (require 'ag)
 (require 'helm-ag)
+(require 'xcscope)
 
 (projectile-global-mode)
 
