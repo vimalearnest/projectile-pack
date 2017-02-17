@@ -16,3 +16,6 @@
 [submodule "vendor/submodules/emacs-async"]
 	path = vendor/submodules/emacs-async
 	url = git@github.com:jwiegley/emacs-async.git
+[submodule "vendor/submodules/emacs-helm-ag"]
+	path = vendor/submodules/emacs-helm-ag
+	url = git@github.com:syohex/emacs-helm-ag.git
