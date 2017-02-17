@@ -13,3 +13,6 @@
 [submodule "vendor/submodules/helm-projectile"]
 	path = vendor/submodules/helm-projectile
 	url = git@github.com:bbatsov/helm-projectile.git
+[submodule "vendor/submodules/emacs-async"]
+	path = vendor/submodules/emacs-async
+	url = git@github.com:jwiegley/emacs-async.git
