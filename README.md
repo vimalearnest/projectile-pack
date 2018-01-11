@@ -1,9 +1,9 @@
-## projectile-pack
-==================
+projectile-pack
+===============
 
 [projectile](https://github.com/bbatsov/projectile) and some associated utilities
 
-## Install
+# Install
 
 Once you clone the repo, go to the repo directory
 
