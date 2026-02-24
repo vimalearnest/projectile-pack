@@ -1,11 +1,7 @@
-;; User pack init file
+;; User pack init file -*- lexical-binding: t; -*-
 ;;
 ;; Use this file to initiate the pack configuration.
 ;; See README for more information.
 
-;; Load bindings config
-(live-load-config-file "grizzl.el")
-(live-load-config-file "flx.el")
-(live-load-config-file "helm.el")
 (live-load-config-file "projectile.el")
 (live-load-config-file "bindings.el")

@@ -1,27 +1,12 @@
 [submodule "vendor/submodules/projectile"]
 	path = vendor/submodules/projectile
 	url = https://github.com/bbatsov/projectile.git
-[submodule "vendor/submodules/grizzl"]
-	path = vendor/submodules/grizzl
-	url = https://github.com/d11wtq/grizzl.git
-[submodule "vendor/submodules/helm"]
-	path = vendor/submodules/helm
-	url = https://github.com/emacs-helm/helm.git
-[submodule "vendor/submodules/flx"]
-	path = vendor/submodules/flx
-	url = https://github.com/lewang/flx.git
-[submodule "vendor/submodules/helm-projectile"]
-	path = vendor/submodules/helm-projectile
-	url = git@github.com:bbatsov/helm-projectile.git
-[submodule "vendor/submodules/emacs-async"]
-	path = vendor/submodules/emacs-async
-	url = git@github.com:jwiegley/emacs-async.git
-[submodule "vendor/submodules/emacs-helm-ag"]
-	path = vendor/submodules/emacs-helm-ag
-	url = git@github.com:syohex/emacs-helm-ag.git
 [submodule "vendor/submodules/ag"]
 	path = vendor/submodules/ag
 	url = git@github.com:Wilfred/ag.el.git
 [submodule "vendor/submodules/xcscope"]
 	path = vendor/submodules/xcscope
 	url = git@github.com:dkogan/xcscope.el.git
+[submodule "vendor/submodules/counsel-projectile"]
+	path = vendor/submodules/counsel-projectile
+	url = https://github.com/ericdanan/counsel-projectile.git

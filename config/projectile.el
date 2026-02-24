@@ -1,15 +1,16 @@
-(live-add-pack-lib "helm-projectile")
-(live-add-pack-lib "emacs-helm-ag")
+;; projectile config -*- lexical-binding: t; -*-
+
 (live-add-pack-lib "projectile")
+(live-add-pack-lib "counsel-projectile")
 (live-add-pack-lib "ag")
 (live-add-pack-lib "xcscope")
 
 (require 'projectile)
-(require 'helm-projectile)
+(require 'counsel-projectile)
 (require 'ag)
-(require 'helm-ag)
 (require 'xcscope)
 
-(projectile-global-mode)
+(projectile-mode +1)
+(counsel-projectile-mode +1)
 
-(setq projectile-completion-system 'grizzl)
+(setq projectile-completion-system 'ivy)
