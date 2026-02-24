@@ -14,3 +14,4 @@
 (counsel-projectile-mode +1)
 
 (setq projectile-completion-system 'ivy)
+(define-key projectile-mode-map (kbd "C-c p") 'projectile-command-map)
